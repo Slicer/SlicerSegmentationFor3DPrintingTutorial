@@ -1,3 +1,6 @@
-This repository stores the 3D Slicer tutorials for versions 5.x and later, and the data they use.
+# Segmentation for 3D Printing Tutorial for 3D Slicer
 
-The older tutorials can be found on the deprecated [Slicer wiki](https://www.slicer.org/wiki/Documentation/Nightly/Training). Please note that several wiki functions are broken.
+Tutorial for making a 3D-printable surgical skill training phantom using 3D Slicer. Patient anatomy is extracted from CT image using segmentation and combined with part created in CAD software.
+
+- Slides: [PDF (English)](https://github.com/Slicer/SlicerSegmentationFor3DPrintingTutorial/releases/download/Slicer-5.6/SegmentationFor3DPrinting-Slicer-5.6.pdf)
+- Data: [BasePiece.stl](https://raw.githubusercontent.com/Slicer/SlicerSegmentationFor3DPrintingTutorial/main/BasePiece.stl)
